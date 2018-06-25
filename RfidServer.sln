@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfidServer", "RfidServer\RfidServer.csproj", "{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Debug|x86.ActiveCfg = Debug|x86
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Debug|x86.Build.0 = Debug|x86
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Release|x86.ActiveCfg = Release|x86
+		{1FDCF68B-D33E-4157-BF12-1026EBAD13BC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB20BFB-418F-4374-B552-8258534C4CF2}
+	EndGlobalSection
+EndGlobal
